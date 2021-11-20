@@ -1,2 +1,2 @@
-# stat_soft_algorithm
-An Introduction to Statistical Computation
+# Curriculum - An Introduction to Statistical Computation
+
